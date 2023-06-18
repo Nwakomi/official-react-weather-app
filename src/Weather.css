@@ -29,12 +29,12 @@
     list-style: none;
 }
 
-.Weather img {
-    height: 64px;
+.Weather canvas {
+  
     display: inline-block;
     margin-right: 10px;
-    margin-bottom: 30px;
-    width: 64px;
+    margin-top: 5px;
+   
 
 }
 
