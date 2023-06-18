@@ -10,12 +10,12 @@ export default function App() {
 
     <footer>
 This project was coded by Natali and is 
-    <a href="https://github.com/Nwakomi/official-react-weather-app" rel="noopener noreferrer" target="_blank"> open-sourced on Github</a> {" "}
-          and{" "}
+    <a href="https://github.com/Nwakomi/official-react-weather-app" rel="noreferrer" target="_blank"> open-sourced on Github</a>{" "}
+          and is{" "}
           <a
-            href="/"
+            href="https://app.netlify.com/sites/jade-fox-c633d5/deploys"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
