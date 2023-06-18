@@ -13,7 +13,7 @@ This project was coded by Natali and is
     <a href="https://github.com/Nwakomi/official-react-weather-app" rel="noreferrer" target="_blank"> open-sourced on Github</a>{" "}
           and is{" "}
           <a
-            href="https://app.netlify.com/sites/jade-fox-c633d5/deploys"
+            href="https://resonant-nasturtium-f3a126.netlify.app"
             target="_blank"
             rel="noreferrer"
           >
