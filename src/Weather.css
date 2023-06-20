@@ -2,7 +2,7 @@
 .Weather {
     border: 1px solid #dadde1;
     font-family: arial, sans-serif;
-    color: rgb(135, 135, 135);
+    color: rgb(76, 76, 76);
     padding: 16px;
     border-radius: 4px;
 }
@@ -12,6 +12,7 @@
     font-weight: 100;
     line-height: 29px;
     margin: 20px 0 0 0;
+    color: black;
 }
 
 .Weather ul{
